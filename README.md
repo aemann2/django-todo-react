@@ -1,0 +1,1 @@
+Demo for a decoupled, full stack React/Django Todo application. Code taken from [here](https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react).
