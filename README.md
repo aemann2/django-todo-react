@@ -1,6 +1,6 @@
 # Django / React todo
 
-Demo for a decoupled, full stack React/Django Todo application. Code taken from [here](https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react).
+Demo for a decoupled, full stack React/Django Todo application. Code taken from [here](https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react). This version has adapted that code to use funciton-based React components.
 
 ## Install:
 - Set up a `venv` folder in the project's root directory: `python -m venv venv`
